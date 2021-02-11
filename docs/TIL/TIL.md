@@ -8,5 +8,5 @@ permalink: /docs/TIL
 
 # TIL
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+하루, 하루 배운것을 기록하는 습관을 기르자.
 {: .fs-6 .fw-300 }

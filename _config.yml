@@ -16,7 +16,7 @@
 
 theme: "just-the-docs"
 
-title: Just the Docs
+title: Today Wonseok Learned
 description: A Jekyll theme for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://choiwsx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -67,8 +67,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "GitHub":
+    - "https://github.com/choiwsx"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
