@@ -111,6 +111,10 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 plugins:
   - jekyll-seo-tag
 
+gems:
+  - jemoji
+
+
 kramdown:
   syntax_highlighter_opts:
     block:
